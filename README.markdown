@@ -124,7 +124,7 @@ Please follow standard coding practices and add comments to your code.
 
 ## 👥 Credits
 
-- **Author:** Kanhaiya Mehta  
+- **Author:** Muhammad Owais  
 - **Inspiration:** NIRF/JoSAA data for promoting educational equity in India.  
 - **Tools:** Built with love using Jupyter, Pandas, and friends ❤️.
 
