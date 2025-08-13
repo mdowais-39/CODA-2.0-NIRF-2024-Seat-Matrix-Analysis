@@ -92,7 +92,7 @@ This analysis empowers policymakers, educators, and students to spotlight region
 ### Setup & Execution
 1. Clone the repo:  
    ```
-   git clone https://github.com/yourusername/coda-2.0.git
+   git clone [https://github.com/mdowais-39/CODA-2.0-NIRF-2024-Seat-Matrix-Analysis]
    cd coda-2.0
    ```
 
